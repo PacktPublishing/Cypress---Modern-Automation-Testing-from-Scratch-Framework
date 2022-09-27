@@ -1,0 +1,2 @@
+Cypress Concepts Cheat Sheet download
+Please download Cypress Cheat Sheet "cypressconcepts.xlsx" which we are maintaining from beginning of the course from resources

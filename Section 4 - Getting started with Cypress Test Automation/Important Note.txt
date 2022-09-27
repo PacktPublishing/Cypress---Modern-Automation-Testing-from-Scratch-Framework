@@ -1,0 +1,13 @@
+Important Note
+In the upcoming lectures we shall use below demo website for demonstration of few Cypress topics
+
+https://rahulshettyacademy.com/seleniumPractise/#/
+
+
+
+While you are practicing, please make sure to not include any www in the  url
+
+https://www.rahulshettyacademy.com/seleniumPractise/#/. - ( THIS IS WRONG. SITE WILL NOT LOAD)
+
+https://rahulshettyacademy.com/seleniumPractise/#/. - ( CORRECT)
+

@@ -1,0 +1,6 @@
+Plan of Learning JavaScript Fundamentals from Scratch
+Important Note:
+
+We Code Cypress in JavaScript Language.  So if you are new/Novice to programming world, I suggest you to watch the last section of this course which has around 2.5 hours javaScript Fundamentals tutorials which will make your basics Strong to work on Automation.
+
+But if you  already have basic knowledge on any programming language in the past, then I recommend you to watch the lectures in the sequence they are arranged as I have done my best in teaching Cypress and JavaScript parallelly so that you will not feel lost in any lecture. You can leisurely then explore and brush up all the concepts of JavaScript finally after course completion.
