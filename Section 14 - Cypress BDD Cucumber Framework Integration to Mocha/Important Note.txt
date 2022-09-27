@@ -1,0 +1,7 @@
+Important Note
+In next lecture, I am going to explain how to setup cucumber configuration. Please note that  configuration  shown in the video is based on cypress version > 10.
+
+If you are on a project with version less than 10, then Please see below 10min youtube video to understand how to migrate your existing project Version to Cypress Version>10.
+
+https://youtu.be/CneXs1y5N7A
+
