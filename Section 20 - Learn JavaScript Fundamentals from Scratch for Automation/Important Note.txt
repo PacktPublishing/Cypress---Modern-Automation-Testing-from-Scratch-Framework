@@ -1,0 +1,6 @@
+Important Note
+In this Section, We shall learn Fundamentals of JavaScript from Scratch. I have covered all the necessary concepts with real life Scenarios to understand JavaScript in Depth.
+
+If you have time, I definitely recommend to watch this section to get knowledge on JavaScript.
+
+Thank you!
